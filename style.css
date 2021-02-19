@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color:chartreuse;
+}
+#show_para1_div{
+    font-size: 20px;
+    font-weight: bold;
+}
+#show_para2_div{
+    font-size: 20px;
+    font-weight: bold;
+}
